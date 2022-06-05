@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.ImanApp" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#6C4236</item>
+        <item name="colorPrimaryVariant">#6C4236</item>
+        <item name="colorOnPrimary">#6C4236</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">#CEF0FF</item>
+        <item name="colorSecondaryVariant">#CEF0FF</item>
+        <item name="colorOnSecondary">#CEF0FF</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>

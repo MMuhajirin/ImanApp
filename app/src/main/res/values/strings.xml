@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Iman App</string>
+    <string name="tv_kode">Kode Barang</string>
+    <string name="ht_kode">kode barang</string>
+    <string name="tv_nama">Nama Barang</string>
+    <string name="ht_nama">nama barang</string>
+    <string name="tv_jml">Jumlah Barang</string>
+    <string name="ht_jml">jumlah barang</string>
+    <string name="btn_logout">Logout</string>
+    <string name="btn_show">Data</string>
+    <string name="btn_save">Simpan</string>
+    <string name="logo">logo</string>
+    <string name="tv_welcome">Welcome</string>
+    <string name="tv_title">IMAN APP</string>
+    <string name="tv_explain">Inventory Manajemen Application</string>
+    <string name="btn_login">Login</string>
+    <string name="toolBar_main">Main</string>
+    <string name="toolBar_data_barang">Data Barang</string>
+    <string name="none" />
+    <string name="toolBar_update">Update</string>
+    <string name="txt_kode_barang">Kode Barang</string>
+    <string name="txt_nama_barang">Nama Barang</string>
+    <string name="txt_jumlah_barang">Jumlah Barang</string>
+    <string name="txt_colon">:</string>
+</resources>
